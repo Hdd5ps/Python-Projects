@@ -1,0 +1,11 @@
+test review
+format - short answer 
+topics
+identifiers valid or not
+expressions (calculations)
+/, //, +, *, %, -
+formatting / output
+read/output python codes
+write small python segments
+specify algorithm for some problem
+solve the problem in python
